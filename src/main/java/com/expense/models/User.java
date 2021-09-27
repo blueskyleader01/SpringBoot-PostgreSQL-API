@@ -1,4 +1,4 @@
-package com.expense.model;
+package com.expense.models;
 
 import javax.persistence.*;
 
